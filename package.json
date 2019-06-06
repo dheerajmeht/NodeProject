@@ -1,0 +1,24 @@
+{
+  "name": "nodeproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js",
+    "start-server" : "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dheerajmeht/NodeProject.git"
+  },
+  "author": "Dheeraj Mehta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dheerajmeht/NodeProject/issues"
+  },
+  "homepage": "https://github.com/dheerajmeht/NodeProject#readme",
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
